@@ -1,0 +1,41 @@
+body,
+html{min-height: 100%}
+body{
+	padding-right: 12em;
+	padding-left: 4em;
+	font-family: Comic,
+	background-image: url("http://k31.kn3.net/taringa/9/6/7/A/5/1/ChivitoPrimavera/9A2.jpg");
+	background-repeat: no-repeat;
+}
+ul.navbar{
+	text-align: left;
+	list-style-type: none;
+	padding-left: 1250px;
+	margin: 0;
+	position: absolute;
+	top: 6em;
+	width: 5em;
+}
+h1{
+	font-family: Helvetica, Geneva, Arial,
+			SunSans-Regular, sans-serif
+}
+ul.navbar li{
+	background: white;
+	margin: 0.1em 0;
+	padding: 0.3em;
+}
+ul.navbar a{
+	text-decoration: none;
+}
+a:link{
+	color: red
+}
+a:visited{
+	color: red;
+}
+address{
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted
+}
